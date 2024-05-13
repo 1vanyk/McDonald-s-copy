@@ -25,6 +25,10 @@ nav a {
     margin: 20px;
     font-size: 17px;
 }
+nav a:hover {
+    font-style: bold;
+    border-bottom: 2px solid red;
+}
 .slider {
     width: 1280px;
     height: 580px;
